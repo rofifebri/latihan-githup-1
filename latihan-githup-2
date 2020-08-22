@@ -3,3 +3,6 @@ dengan sumber belajar wep programing unpas
 
 di latihan ke dua ini mempelajari tentang :
 1. master branch
+2. ini adalah membuat sub bagian di website tanpa menggangu file utama master
+3. intinya jika kita ingin melakukan editing pada master kita harus buat baru dengan pilih branch tanpa harus mengganggu file aslinya
+4. 
