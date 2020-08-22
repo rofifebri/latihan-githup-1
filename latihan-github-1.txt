@@ -1,5 +1,7 @@
 latihan githup
 - mengenal cara awal menggunakan githup dari awal
+- mengenal fitur-fitur pada github
 
 tujuan
 - untuk kolaborasi membuat website bersama 
+- membuat website dengan cload
