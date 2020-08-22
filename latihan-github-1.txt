@@ -1,0 +1,5 @@
+latihan githup
+- mengenal cara awal menggunakan githup dari awal
+
+tujuan
+- untuk kolaborasi membuat website bersama 
